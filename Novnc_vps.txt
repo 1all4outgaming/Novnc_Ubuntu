@@ -1,4 +1,4 @@
-Novnc ubuntu vps run in your web
+Novnc ubuntu vps run in your github codespace or google shell or another
 
 =========================
 Ubuntu 20.04:
